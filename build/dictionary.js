@@ -19,7 +19,7 @@ var dictList = [
   // 'phrases-4',
   // 'phrases-5',
 ];
-// var dictList = ['~'];
+// var dictList = ['_'];
 var dictBasePath = 'build/dictonary/';
 
 (function () {

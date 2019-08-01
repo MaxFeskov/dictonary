@@ -12,7 +12,7 @@ var dictList = [
     'i-a-u',
     'other',
   ];
-  var dictList = ['~'];
+  var dictList = ['_'];
   var dictBasePath = 'build/dictonary/verbs/';
   
   (function () {
