@@ -13,7 +13,7 @@ var dictList = [
     'other',
   ];
   var dictList = ['~'];
-  var dictBasePath = '/build/dictonary/verbs/';
+  var dictBasePath = 'build/dictonary/verbs/';
   
   (function () {
     class Dictonary {
