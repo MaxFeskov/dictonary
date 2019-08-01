@@ -12,7 +12,6 @@ var dictList = [
     'i-a-u',
     'other',
   ];
-  var dictList = ['_'];
   var dictBasePath = 'build/dictonary/verbs/';
   
   (function () {
