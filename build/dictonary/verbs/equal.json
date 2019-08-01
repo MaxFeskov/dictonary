@@ -1,0 +1,14 @@
+{
+  "стоить": ["to cost", "cost", "cost"],
+  "резать": ["to cut", "cut", "cut"],
+  "опрокидывать": ["to upset", "upset", "upset"],
+  "раскладывать": ["to split", "split", "split"],
+  "распостранять": ["to spread", "spread", "spread"],   
+  "помещать": ["to set", "set", "set"],
+  "позволять": ["to let", "let", "let"],
+  "ударять": ["to hit", "hit", "hit"],
+  "причинять боль": ["to hurt", "hurt", "hurt"],
+  "закрывать": ["to shut", "shut", "shut"],
+  "класть": ["to put", "put", "put"],
+  "читать": ["to read", "read", "read"]
+}

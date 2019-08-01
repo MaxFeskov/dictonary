@@ -1,0 +1,20 @@
+{
+  "создавать": ["to make", "made", "made"],
+  "находить": ["to find", "found", "found"],
+  "побеждать": ["to win", "won", "won"],
+  "стоять": ["to stand", "stood", "stood"],
+  "зажигать": ["to light", "lit", "lit"],
+  "сказать": ["to say", "said", "said"],
+  "продавать": ["to sell", "sold", "sold"],
+  "светить": ["to shine", "shone", "shone"],
+  "вести": ["to lead", "led", "led"],
+  "получать": ["to get", "got", "got"],
+  "иметь": ["to have", "had", "had"],
+  "слышать": ["to hear", "heard", "heard"],
+  "держать": ["to hold", "held", "held"],
+  "рассказывать": ["to tell", "told", "told"],
+  "понимать": ["to understand", "understood", "understood"],
+  "сидеть": ["to sit", "sat", "sat"],
+  "терять": ["to lose", "lost", "lost"],
+  "оставлять": ["to leave", "left", "left"]
+}

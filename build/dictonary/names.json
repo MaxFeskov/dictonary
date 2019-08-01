@@ -1,0 +1,11 @@
+{
+  "the Noun": ["имя существительное"],
+  "the Adjective": ["имя прилагательное"],
+  "the Numeral": ["имя числительное"],
+  "the Pronoun": ["местоимение"],
+  "the Verb": ["глагол"],
+  "the Adverb": ["наречие"],
+  "the Preposition": ["предлог"],
+  "the Conjunction": ["союз"],
+  "the Interjection": ["междометие"]
+}

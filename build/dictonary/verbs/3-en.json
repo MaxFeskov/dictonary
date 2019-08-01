@@ -1,0 +1,11 @@
+{
+  "бить": ["to beat", "beat", "beaten"],
+  "есть": ["to eat", "ate", "eaten"],
+  "видеть": ["to see", "saw", "seen"],
+  "давать": ["to give", "gave", "given"],
+  "брать": ["to take", "took", "taken"],
+  "забывать": ["to forget", "forgot", "forgotten"],
+  "говорить": ["to speak", "spoke", "spoken"],
+  "будить": ["to wake up", "woke up", "woken up"],
+  "писать": ["to write", "wrote", "written"]
+}
