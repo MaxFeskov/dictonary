@@ -19,7 +19,7 @@ var dictList = [
   // 'phrases-4',
   // 'phrases-5',
 ];
-var dictBasePath = 'build/dictonary/';
+var dictBasePath = 'dictonary/';
 
 (function () {
   class Dictonary {
