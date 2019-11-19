@@ -1,0 +1,20 @@
+// Place your settings in this file to overwrite default and user settings.
+{
+  "files.eol": "\n",
+  "eslint.enable": true,
+  "eslint.autoFixOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "eslint.nodePath": "./node_modules/eslint",
+  "eslint.options": {
+    "configFile": "D:/ftp/.eslintrc.js"
+  },
+  "eslint.validate": [
+    "javascript"
+  ],
+  "[javascript]": {
+    "editor.formatOnSave": true
+  },
+  "npm.enableScriptExplorer": true
+}
